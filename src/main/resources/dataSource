@@ -1,0 +1,4 @@
+com.mysql.jdbc.Driver
+jdbc:mysql://119.29.207.65:3306/guimei?characterEncoding=utf-8
+root
+123456
